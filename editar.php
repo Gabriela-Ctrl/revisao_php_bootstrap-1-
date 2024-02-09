@@ -1,5 +1,3 @@
-<!-- Digite aqui (editar.php) -->
-<!-- 4º Arquivo a ser digitado -->
 <?php
 
 // Incluir a conexao com o banco de dados
